@@ -1,0 +1,12 @@
+{
+    "name": "api",
+    "version": "1.0.0",
+    "main": "index.js",
+    "dependencies": {
+      "ui": "1.0.0"
+    },
+    "scripts": {
+        "build": "echo Building API"
+      }
+  }
+  
