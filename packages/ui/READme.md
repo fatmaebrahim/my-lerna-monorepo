@@ -2,4 +2,4 @@
 
 Shared UI components for apps in the monorepo.
 
-- [Test](/packages/ui/scripts/ui.js)
+- [Test](./scripts/ui.js)

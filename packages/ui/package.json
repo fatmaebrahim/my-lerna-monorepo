@@ -1,8 +1,12 @@
 {
-  "name": "ui",
-  "version": "1.0.0",
-  "main": "index.js",
+  "name": "@fatmaebrahim/ui",
+  "version": "1.0.1",
   "scripts": {
     "build": "echo Building UI"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fatmaebrahim/my-lerna-monorepo.git",
+    "directory": "workspaces/ui"
   }
 }
