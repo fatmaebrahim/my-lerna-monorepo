@@ -7,6 +7,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/fatmaebrahim/my-lerna-monorepo.git",
-    "directory": "workspaces/ui"
+    "directory": "packages/ui"
   }
 }
