@@ -1,12 +1,16 @@
 {
-    "name": "api",
-    "version": "1.0.0",
-    "main": "index.js",
-    "dependencies": {
-      "ui": "1.0.0"
-    },
-    "scripts": {
-        "build": "echo Building API"
-      }
+  "name": "@fatmaebrahim/api",
+  "version": "1.0.0",
+  "dependencies": {
+    "ui": "1.0.0"
+  },
+  "homepage": "https://github.com/fatmaebrahim/my-lerna-monorepo/tree/main/packages/api/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fatmaebrahim/my-lerna-monorepo.git",
+    "directory": "packages/api"
+  },
+  "scripts": {
+    "build": "echo Building API"
   }
-  
+}
